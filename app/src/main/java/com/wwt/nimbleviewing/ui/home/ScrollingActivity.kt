@@ -5,7 +5,7 @@ import android.view.LayoutInflater
 import androidx.appcompat.app.AppCompatActivity
 import androidx.lifecycle.Observer
 import com.google.android.material.snackbar.Snackbar
-import com.wwt.nimbleviewing.AlbumArt
+import com.wwt.nimbleviewing.model.AlbumArt
 import com.wwt.nimbleviewing.BuildConfig
 import com.wwt.nimbleviewing.databinding.ActivityScrollingBinding
 import org.koin.android.ext.android.inject

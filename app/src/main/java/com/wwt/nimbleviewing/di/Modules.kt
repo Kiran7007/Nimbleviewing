@@ -1,7 +1,8 @@
-package com.wwt.nimbleviewing
+package com.wwt.nimbleviewing.di
 
 import com.squareup.moshi.Moshi
 import com.squareup.moshi.kotlin.reflect.KotlinJsonAdapterFactory
+import com.wwt.nimbleviewing.BuildConfig
 import com.wwt.nimbleviewing.data.remote.ApiService
 import com.wwt.nimbleviewing.data.repository.AlbumArtRepository
 import com.wwt.nimbleviewing.data.repository.AlbumArtRepositoryImpl

@@ -6,7 +6,7 @@ import android.view.ViewGroup
 import android.widget.TextView
 import androidx.appcompat.widget.AppCompatImageView
 import androidx.recyclerview.widget.RecyclerView
-import com.wwt.nimbleviewing.AlbumArt
+import com.wwt.nimbleviewing.model.AlbumArt
 import com.wwt.nimbleviewing.R
 import com.wwt.nimbleviewing.loadImage
 

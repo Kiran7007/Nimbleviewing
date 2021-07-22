@@ -4,7 +4,7 @@ import androidx.lifecycle.LiveData
 import androidx.lifecycle.MutableLiveData
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.viewModelScope
-import com.wwt.nimbleviewing.AlbumArt
+import com.wwt.nimbleviewing.model.AlbumArt
 import com.wwt.nimbleviewing.BuildConfig
 import com.wwt.nimbleviewing.data.repository.AlbumArtRepository
 import kotlinx.coroutines.Dispatchers

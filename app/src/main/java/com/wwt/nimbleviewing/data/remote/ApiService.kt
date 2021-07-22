@@ -1,6 +1,6 @@
 package com.wwt.nimbleviewing.data.remote
 
-import com.wwt.nimbleviewing.AlbumArt
+import com.wwt.nimbleviewing.model.AlbumArt
 import retrofit2.Response
 import retrofit2.http.GET
 import retrofit2.http.Url

@@ -1,6 +1,9 @@
 package com.wwt.nimbleviewing
 
 import android.app.Application
+import com.wwt.nimbleviewing.di.remoteModules
+import com.wwt.nimbleviewing.di.repositoryModule
+import com.wwt.nimbleviewing.di.viewmodelModule
 import org.koin.core.context.startKoin
 
 class NimbleviewingApp : Application() {

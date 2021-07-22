@@ -1,4 +1,4 @@
-package com.wwt.nimbleviewing
+package com.wwt.nimbleviewing.model
 
 data class Album(val userId: Int, val id: Int, val title: String)
 
